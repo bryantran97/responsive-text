@@ -1,0 +1,280 @@
+/* ================ */
+/*   Main headers   */
+/* ================ */
+
+.extra-large-header {
+    font-size: 75px;
+}
+
+.large-header {
+    font-size: 65px;
+}
+
+.medium-header {
+    font-size: 60px;
+}
+
+.small-header {
+    font-size: 55px;
+}
+
+.extra-small-header {
+    font-size: 40px;
+}
+
+/* ================ */
+/*    Sub headers   */
+/* ================ */
+
+.extra-large-sub-header {
+    font-size: 60px;
+}
+
+.large-sub-header {
+    font-size: 55px;
+}
+
+.medium-sub-header {
+    font-size: 50px;
+}
+
+.small-sub-header {
+    font-size: 45px;
+}
+
+.extra-small-sub-header {
+    font-size: 35px;
+}
+
+/* ================ */
+/*    Paragraphs    */
+/* ================ */
+
+.extra-large-p {
+    font-size: 32px;
+}
+
+.large-p {
+    font-size: 28px;
+}
+
+.medium-p {
+    font-size: 25px;
+}
+
+.small-p {
+    font-size: 22px;
+}
+
+.extra-small-p {
+    font-size: 16px;
+}
+
+/* ================================================================== */
+
+/* ================ */
+/*  Medium Devices  */
+/* ================ */
+
+@media only screen and (max-width : 992px) {
+    /* Main header */
+    .extra-large-header {
+        font-size: 70px;
+    }
+
+    .large-header {
+        font-size: 60px;
+    }
+
+    .medium-header {
+        font-size: 55px;
+    }
+
+    .small-header {
+        font-size: 50px;
+    }
+    
+    .extra-small-header {
+        font-size: 35px;
+    }
+    
+    /* Sub header */
+    .extra-large-sub-header {
+        font-size: 50px;
+    }
+
+    .large-sub-header {
+        font-size: 45px;
+    }
+
+    .medium-sub-header {
+        font-size: 40px;
+    }
+
+    .small-sub-header {
+        font-size: 35px;
+    }
+    
+    .extra-small-sub-header {
+        font-size: 25px;
+    }
+    
+    /* Paragraphs */
+    .extra-large-p {
+        font-size: 30px;
+    }
+
+    .large-p {
+        font-size: 26px;
+    }
+
+    .medium-p {
+        font-size: 23px;
+    }
+
+    .small-p {
+        font-size: 20px;
+    }
+    
+    .extra-small-p {
+        font-size: 14px;
+    }
+}
+
+/* ================ */
+/*  Small Devices   */
+/* ================ */
+
+@media only screen and (max-width : 768px) {
+    /* Main header */
+    .extra-large-header {
+        font-size: 65px;
+    }
+
+    .large-header {
+        font-size: 55px;
+    }
+
+    .medium-header {
+        font-size: 50px;
+    }
+
+    .small-header {
+        font-size: 45px;
+    }
+    
+    .extra-small-header {
+        font-size: 30px;
+    }
+    
+    /* Sub header */
+    .extra-large-sub-header {
+        font-size: 45px;
+    }
+
+    .large-sub-header {
+        font-size: 40px;
+    }
+
+    .medium-sub-header {
+        font-size: 35px;
+    }
+
+    .small-sub-header {
+        font-size: 30px;
+    }
+    
+    .extra-small-sub-header {
+        font-size: 25px;
+    }
+    
+    /* Paragraphs */
+    .extra-large-p {
+        font-size: 28px;
+    }
+
+    .large-p {
+        font-size: 26px;
+    }
+
+    .medium-p {
+        font-size: 21px;
+    }
+
+    .small-p {
+        font-size: 18px;
+    }
+    
+    .extra-small-p {
+        font-size: 12px;
+    }
+}
+
+/* ================ */
+/*    XS Devices    */
+/* ================ */
+
+@media only screen and (max-width: 480px) {
+    /* Main header */
+    .extra-large-header {
+        font-size: 55px;
+    }
+
+    .large-header {
+        font-size: 45px;
+    }
+
+    .medium-header {
+        font-size: 40px;
+    }
+
+    .small-header {
+        font-size: 35px;
+    }
+    
+    .extra-small-header {
+        font-size: 25px;
+    }
+    
+    /* Sub header */
+    .extra-large-sub-header {
+        font-size: 35px;
+    }
+
+    .large-sub-header {
+        font-size: 32px;
+    }
+
+    .medium-sub-header {
+        font-size: 29px;
+    }
+
+    .small-sub-header {
+        font-size: 26px;
+    }
+    
+    .extra-small-sub-header {
+        font-size: 22px;
+    }
+    
+    /* Paragraphs */
+    .extra-large-p {
+        font-size: 25px;
+    }
+
+    .large-p {
+        font-size: 22px;
+    }
+
+    .medium-p {
+        font-size: 19px;
+    }
+
+    .small-p {
+        font-size: 15px;
+    }
+    
+    .extra-small-p {
+        font-size: 10px;
+    }
+}
